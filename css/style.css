@@ -1,0 +1,50 @@
+.resume {
+	margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    padding: 30px;
+    font-family: 'Merriweather', serif;
+}
+
+.page1, .page3 {
+	background-color: #B0E0E6;
+	font-family: 'Fira Sans', sans-serif;
+	padding: 70px;
+}
+
+.name {
+	font-family: 'Fira Sans', sans-serif;
+}
+
+.intro {
+	font-family: 'Merriweather', serif;
+	padding: 35px;
+}
+
+.caption {
+	font-family: 'Merriweather', serif;
+}
+
+.page4 {
+	padding: 70px;
+}
+
+.socials {
+	font-family: 'Fira Sans', sans-serif;
+}
+
+.links {
+	font-family: 'Merriweather', serif;
+}
+
+@media (max-width: 768px;) {
+	body {
+		width: 100%;
+	}
+}
+
+@media (max-width: 992px;) {
+	body {
+		width: 100%
+	}
+}
