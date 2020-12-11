@@ -1,0 +1,88 @@
+/* font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Slabo 27px', serif; */
+
+.header {
+	padding: 50px;
+	padding-bottom: 600px;
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+}
+
+.byline {
+	font-size: 20px;
+}
+
+.paragraph1 {
+	padding: 50px;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+.firstchart {
+	padding: 50px;
+}
+
+.paragraph2 {
+	padding: 50px;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+.secondchart {
+	padding: 20px;
+}
+
+.quote1 {
+	padding-left: 50px;
+	padding-right: 50px;
+	font-size: 35px;
+	font-family: 'Slabo 27px', serif;
+}
+
+.attribution1 {
+	text-align: center;
+}
+
+.paragraph3 {
+	padding: 50px;
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+}
+
+.paragraph4, .paragraph5 {
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+.bandcamppic {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%
+}
+
+.newmusic {
+	padding: 50px;
+	font-size: 35px;
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+}
+
+.newmusic2 {
+	font-size: 35px;
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+}
+
+@media (max-width: 768px;) {
+	body {
+		width: 100%;
+	}
+}
+
+@media (max-width: 992px;) {
+	body {
+		width: 100%
+	}
+}
+
+
