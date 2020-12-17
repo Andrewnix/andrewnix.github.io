@@ -7,6 +7,7 @@ font-family: 'Slabo 27px', serif; */
 	font-size: 50px;
 	text-align: center;
 	font-family: 'Slabo 27px', serif;
+	color: white;
 }
 
 .byline {
@@ -73,13 +74,13 @@ font-family: 'Slabo 27px', serif; */
 	font-family: 'Slabo 27px', serif;
 }
 
-@media (max-width: 768px;) {
+@media (max-width: 768px) {
 	body {
 		width: 100%;
 	}
 }
 
-@media (max-width: 992px;) {
+@media (max-width: 992px) {
 	body {
 		width: 100%
 	}
